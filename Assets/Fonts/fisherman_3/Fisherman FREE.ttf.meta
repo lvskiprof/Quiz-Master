@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9f03581265d5c3944a1c44cd50db4e4f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fisherman FREE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ee928a6946a7ec94086f7c6e43b37736, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

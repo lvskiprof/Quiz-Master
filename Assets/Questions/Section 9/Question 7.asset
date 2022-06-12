@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
+  m_Name: Question 7
+  m_EditorClassIdentifier: 
+  question: During the dive, at a depth of 12 metres/40 feet, my computer shows my
+    remaining no stop (no decompression) time is 82 minutes just before my buddy
+    and I ascend to 9 metres/30 feet. When we reach the new depth, my no stop (no
+    decompression) time will _______ 82 minutes.
+  answers:
+  - be more than
+  - be less than
+  - still be
+  correctAnswerIndex: 0
