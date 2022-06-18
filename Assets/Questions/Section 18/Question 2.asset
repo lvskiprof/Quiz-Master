@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Question
+  question: "I dive following the approach that helps me prevent and manage problems.
+    Which of the following statements would therefore be true when my buddy\u2019s
+    cramps occur?"
   answers:
-  - 
-  - 
-  - 
-  - 
+  - My mask is on and my snorkle is in my mouth
+  - My mask is on and my snorkle is out of my mouth
+  - My mask is on and I don't have a snorkle snorkle
+  - My mask is off and I don't have a snorkle snorkle
   correctAnswerIndex: 0

@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Question
+  question: Prescription or over-the-counter drugs may make me more susceptible to
+    gas narcosis.
   answers:
-  - 
-  - 
-  - 
-  - 
+  - True
+  - False
   correctAnswerIndex: 0

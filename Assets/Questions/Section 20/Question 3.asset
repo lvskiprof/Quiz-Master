@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Question
+  question: If my buddy or I seem to be affected by narcosis, simply wait a few moments
+    and it will probably pass.
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - True
+  - False
+  correctAnswerIndex: 1

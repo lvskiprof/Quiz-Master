@@ -12,10 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 7
   m_EditorClassIdentifier: 
-  question: Question
+  question: "One of the divers in the other team has a partially filled BCD, but
+    appears significantly overweighted, because he has to kick hard to keep his face
+    out of the water. His mask is off and he\u2019s not breathing from his snorkel
+    or regulator. Abruptly, he says loudly, \u201CGet me out of this!\u201D He begins
+    to splash frantically to stay up. The divemaster yells for him to drop his weights,
+    but he doesn\u2019t seem to hear. To help this diver, what is the first thing
+    I will do?"
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Tell the diver to relax
+  - Establish buoyancy for myself and the diver
+  - Help him put his mask back on
+  correctAnswerIndex: 1

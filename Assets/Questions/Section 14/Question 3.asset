@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Question
+  question: "If I don\u2019t have a backup computer and I can\u2019t use dive tables,
+    after a computer failure I have to wait 12 or more hours before resuming diving
+    with a working computer."
   answers:
-  - 
-  - 
-  - 
-  - 
+  - True
+  - False
   correctAnswerIndex: 0

@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Question
+  question: On my last dive, I had to assist my buddy at the last moment, delaying
+    my ascent. As a result, I had to make an emergency decompression stop. How long
+    should I wait before flying according to the current recommendations?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - 6 hours
+  - 12 hours
+  - 18 hours
+  - more than 18 hours
+  correctAnswerIndex: 3

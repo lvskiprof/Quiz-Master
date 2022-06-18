@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Question
+  question: I go to assist my buddy. The first step in assisting a responsive diver
+    at the surface is ...
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - removing my mask.
+  - confirming/establishing buoyancy for myself and the diver.
+  - removing my snorkle or regulator.
+  correctAnswerIndex: 1

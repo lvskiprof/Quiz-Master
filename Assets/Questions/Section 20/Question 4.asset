@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: Question
+  question: "I have taken a prescription seasickness medication and now feel a bit
+    \u201Chigh.\u201D I'm having trouble understanding my computer display, and I
+    find my buddy\u2019s expressions amusing, even though he\u2019s not doing anything
+    unusual. Is gas narcosis a reasonable explanation for what I\u2019m experiencing?"
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Yes
+  - No
   correctAnswerIndex: 0

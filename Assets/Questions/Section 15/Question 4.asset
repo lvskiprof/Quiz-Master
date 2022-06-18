@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: Question
+  question: "\u201CDecompression illness\u201D is the same thing as \u201Cdecompression
+    sickness.\u201D"
   answers:
-  - 
-  - 
-  - 
-  - 
+  - True
+  - False
   correctAnswerIndex: 0

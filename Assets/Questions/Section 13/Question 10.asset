@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 10
   m_EditorClassIdentifier: 
-  question: Question
+  question: "Although the victim wasn\u2019t breathing before, he responds to rescue
+    breathing and begins breathing on his own, though he remains unresponsive. From
+    this point, to assist the diver rescuers should recheck breathing frequently,
+    administer emergency oxygen, contact emergency medical care and ..."
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - give the diver fluids to drink.
+  - keep the diver lying level on his left side.
+  - use an Automated External Defribilator (AEB).
+  correctAnswerIndex: 1

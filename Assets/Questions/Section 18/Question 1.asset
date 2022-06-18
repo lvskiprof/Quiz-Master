@@ -12,10 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Question
+  question: "My buddy and I have just surfaced at the trail line for our turns to
+    board the dive boat. It is a calm day with no current and flat conditions. Unexpectedly,
+    my buddy lets out a brief cry, followed by, \u201COw! Leg cramp, leg cramp!\u201D
+    What should I do if a diving related problem occurs at the surface?"
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Immediately establish buoyancy
+  - Remove my mask
+  - Remove my mouthpiece
+  - Deflate my BCD
   correctAnswerIndex: 0

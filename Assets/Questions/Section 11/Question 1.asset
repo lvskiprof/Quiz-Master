@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Question
+  question: Assuming we made no different plans before the dive, we would ...
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - stay together and wait for the missing buddy to find us.
+  - split up and search for the missing buddy.
+  - search together for a minute or less, then reunite on the surface if not found.
+  correctAnswerIndex: 2

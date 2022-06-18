@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Question
+  question: Once the diver is on the boat, the divemaster and crew begin administering
+    emergency first aid. Which of the following is the priority in providing emergency
+    care for the diver?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Check for breathing and heartbeat, start CPR as needed.
+  - Give emergency oxygen.
+  - Keep the diver stillm lying down and protect from heat/cold
+  - Write down the divers profile, if known.
   correctAnswerIndex: 0

@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 10
   m_EditorClassIdentifier: 
-  question: Question
+  question: "The black tip reef shark leaves the area, so my buddy and I continue
+    to explore. We swim well above the bottom, horizontally with our equipment secure,
+    paying attention to what our fins may contact. This helps reduce the likelihood
+    of getting an aquatic life injury, and it reduces the chance that we\u2019ll
+    accidentally harm an aquatic organism."
   answers:
-  - 
-  - 
-  - 
-  - 
+  - True
+  - False
   correctAnswerIndex: 0

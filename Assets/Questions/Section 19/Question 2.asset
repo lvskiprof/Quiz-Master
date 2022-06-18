@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Question
+  question: Suppose I feel fine, but may be predisposed to heart attack due to my
+    age, lifestyle, body composition, family history or other factors. What should
+    I with respect to diving?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Discuss my situation with my physician to assess the risk and discuss how to
+    manage the risk as a diver
+  - Begin an intense exercise program that offsets my heart-disease risks
+  - Dive very conservatively and reduce my no decompression times by 50 percent
   correctAnswerIndex: 0

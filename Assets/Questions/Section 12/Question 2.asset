@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Question
+  question: If I had spotted a species of shark that is potentially hazardous, what
+    action would I take?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Watch it, remain still and calmly swim away on the bottom if it seems overly
+    curious or agressive
+  - swim toward it with my arms out
+  - take no action at all
   correctAnswerIndex: 0

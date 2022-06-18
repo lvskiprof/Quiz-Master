@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Question
+  question: "We\u2019ve turned the dive and are headed back to the boat, when we
+    find a diver lying motionless on the bottom. There is no response to tapping
+    on the shoulder. What is my primary priority?"
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Determining if the diver is breathing
+  - Make sure the mouthpiece is in the mouth
+  - Finding out what happened
+  - Getting the diver to the surface
+  correctAnswerIndex: 3

@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 8
   m_EditorClassIdentifier: 
-  question: Question
+  question: At the end of a moderately deep dive, my buddy becomes entangled in fishing
+    line. I free her, but both of my computers are showing an emergency decompression
+    stop is required. I should ...
   answers:
-  - 
-  - 
-  - 
-  - 
+  - stop for the time and depth of my most conservative computer.
+  - make a safety stop.
+  - surface and breath emergency oxygen.
   correctAnswerIndex: 0

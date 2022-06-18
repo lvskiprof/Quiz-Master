@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Question
+  question: My buddy and I have brought the diver to the surface, made ourselves
+    and the diver buoyant, and signaled the boat for help. Next I would ...
   answers:
-  - 
-  - 
-  - 
-  - 
+  - check for breathing.
+  - begin CPR.
+  - remove the divers equipment.
   correctAnswerIndex: 0

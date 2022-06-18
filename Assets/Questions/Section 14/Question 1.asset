@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Question
+  question: "I\u2019m exploring with my buddy and make a routine check of my computer
+    and SPG. To my dismay, the screen is completely blank. I tap on it, which (of
+    course), does nothing. I signal my buddy and ..."
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - continue the dive using my buddys computer for both of us.
+  - make a normal ascent with a safety stop.
+  - ascend at half the usual rate and make a 15-minute emergency decompression stop.
+  correctAnswerIndex: 1

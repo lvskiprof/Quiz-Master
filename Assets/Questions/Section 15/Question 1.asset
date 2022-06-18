@@ -12,10 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Question
+  question: "a diver begins to complain that his elbow hurts, his fingers are numb
+    and that he feels dizzy. I also overhear that the diver\u2019s computer showed
+    he had a required emergency decompression stop, but that he didn\u2019t make
+    any stop at all. What would I suspect is affecting the diver?"
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Gas narcosis
+  - Oxygen toxicity
+  - Contaminated air
+  - Decompression illness
+  correctAnswerIndex: 3

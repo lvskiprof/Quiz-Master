@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 5
   m_EditorClassIdentifier: 
-  question: Question
+  question: If I feel ill before a dive, I should take the appropriate medicines
+    that make me feel better before I start the dive.
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - True
+  - False
+  correctAnswerIndex: 1

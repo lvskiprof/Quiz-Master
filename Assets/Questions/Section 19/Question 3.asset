@@ -12,10 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Question
+  question: "My buddy and I felt fine before a dive, but after the dive my buddy
+    complains about a headache and feeling nauseous. He mentions that his air \u201Ctasted
+    funny,\u201D and his lips and fingernail beds look almost cherry red. What condition
+    might I suspect, and how would it be avoided?"
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Gas narcosis; don't dive deep
+  - Lung overexpansion injury; never hold my breath
+  - Contaminated air; have cylinder filled at a reputable pro dive operation
+  - Oxygen toxicity; don't dive with a cylinder labeled "oxygen"
   correctAnswerIndex: 0

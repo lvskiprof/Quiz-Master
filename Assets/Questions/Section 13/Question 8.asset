@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 8
   m_EditorClassIdentifier: 
-  question: Question
+  question: "As we ascend, the diver\u2019s buoyancy becomes too great to control.
+    My dive computer\u2019s ascent alarm beeps as the rate accelerates. My best action
+    is to ..."
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - continue to ascend with the victim.
+  - let the victim rise to the surface ahead of me.
+  - pass the victim to my buddy.
+  correctAnswerIndex: 1

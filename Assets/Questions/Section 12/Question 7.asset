@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 7
   m_EditorClassIdentifier: 
-  question: Question
+  question: One way I reduce accidentally injuring aquatic life is to swim well above
+    the bottom, paying attention to what my fins may contact.
   answers:
-  - 
-  - 
-  - 
-  - 
+  - True
+  - False
   correctAnswerIndex: 0

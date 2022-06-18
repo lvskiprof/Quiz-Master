@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Question
+  question: When his computer indicated an emergency decompression stop, the diver
+    should have ...
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - made a 3-minute stop at 5 meters/15 feet.
+  - made the stop as the computer indicated (air supply permitting).
+  - re-descended to clear the stop.
+  correctAnswerIndex: 1

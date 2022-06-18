@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 6
   m_EditorClassIdentifier: 
-  question: Question
+  question: If I spot a large, potentially aggressive animal, I should ...
   answers:
-  - 
-  - 
-  - 
-  - 
+  - watch it and slowly swim away.
+  - deploy my dive knife.
+  - swim toward it.
+  - outswim my buddy.
   correctAnswerIndex: 0

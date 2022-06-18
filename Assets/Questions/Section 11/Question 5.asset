@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 5
   m_EditorClassIdentifier: 
-  question: Question
+  question: I get distracted watching a cleaner shrimp station and lose track of
+    my buddy. After looking around for a minute, I ...
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - remain motionless so my buddy can find me.
+  - acsend to the surface.
+  - backtrack along the course we were following.
+  correctAnswerIndex: 1

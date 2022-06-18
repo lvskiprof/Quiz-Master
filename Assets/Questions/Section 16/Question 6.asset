@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 6
   m_EditorClassIdentifier: 
-  question: Question
+  question: If I feel seasick, I should go ...
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - back by the engine exhaust.
+  - into the head.
+  - to the lower center of the boat in fresh air.
+  - sit down and read.
+  correctAnswerIndex: 2

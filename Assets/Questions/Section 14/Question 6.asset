@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77df73acbfa7f1449a33c17ec4799d77, type: 3}
   m_Name: Question 6
   m_EditorClassIdentifier: 
-  question: Question
+  question: "Suppose my buddy does have a backup computer. Before we reach our planned
+    exit, my buddy signals she\u2019s at ascent pressure then signals \u201Cup\u201D
+    to begin our ascent where we are. Is this the correct action?"
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Yes
+  - No
   correctAnswerIndex: 0
